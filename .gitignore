@@ -53,3 +53,22 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+
+# Kernel dev용 추가
+*.o
+*.ko
+*.mod*
+Module.symvers
+modules.order
+*.cmd
+*.img
+*.iso
+*.cpio
+*.gz
+*.xz
+*.zip
+*.log
+*.swp
+.vscode/
+.idea/
