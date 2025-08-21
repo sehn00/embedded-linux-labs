@@ -2,7 +2,7 @@
 > 필수 리눅스 명령어
 
 ## 🔗 Blog (상세 기록)
-- 자세한 과정과 삽질 로그: [<블로그 URL>](https://blog.naver.com/sehn00/223965047920)
+- 자세한 과정과 삽질 로그: https://blog.naver.com/sehn00/223965047920
 
 ## ✅ What I Did (핵심 요약)
 - 리눅스 필수 명령어 정리
