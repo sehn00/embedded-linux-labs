@@ -2,7 +2,7 @@
 > 리눅스 개발환경 이해
 
 ## 🔗 Blog (상세 기록)
-- 자세한 과정과 삽질 로그: [<블로그 URL>](https://blog.naver.com/sehn00/223972483828)
+- 자세한 과정과 삽질 로그: https://blog.naver.com/sehn00/223972483828
 
 ## ✅ What I Did (핵심 요약)
 - 빌드 프로세스 이해
