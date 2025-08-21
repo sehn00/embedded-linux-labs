@@ -14,13 +14,17 @@
 실행 화면:
 
 **구구단 출력**
+
 ![스크린샷](./assets/image.png)
 
 **.gitkeep 자동화 1**
+
 ![스크린샷](./assets/image1.jpg)
+
 ![스크린샷](./assets/image1-1.jpg)
 
 **.gitkeep 자동화 2**
+
 ![스크린샷](./assets/image2.png)
 
 - 로그(발췌):
