@@ -2,7 +2,7 @@
 > Shell script
 
 ## 🔗 Blog (상세 기록)
-- 자세한 과정과 삽질 로그: [<블로그 URL>](https://blog.naver.com/sehn00/223967246143)
+- 자세한 과정과 삽질 로그: https://blog.naver.com/sehn00/223967246143
 
 ## ✅ What I Did (핵심 요약)
 - Shell script 이론
