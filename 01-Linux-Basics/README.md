@@ -1,5 +1,5 @@
-# <단원 제목>  <!-- 예: Linux Basics / Kernel Build / Device Driver -->
-> 한 줄 요약: 이 단원에서 무엇을 했고, 무엇을 얻었는가.
+# <Linux-Basics>  
+> 리눅스 개발을 시작하기 위한 기초 이론 및 실습
 
 ## 🔗 Blog (상세 기록)
 - 자세한 과정과 삽질 로그: <블로그 URL>
