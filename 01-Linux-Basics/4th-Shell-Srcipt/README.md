@@ -1,4 +1,4 @@
-# 4th-Linux-Cmds
+# 4th-Shell-Script
 > Shell script
 
 ## 🔗 Blog (상세 기록)
