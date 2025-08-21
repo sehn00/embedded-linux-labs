@@ -12,9 +12,11 @@
 실행 화면:
 
 **ls --help**
+
 ![스크린샷](./assets/image.png)
 
 **man ls**
+
 ![스크린샷](./assets/image-1.png)
 
 - 로그(발췌):
