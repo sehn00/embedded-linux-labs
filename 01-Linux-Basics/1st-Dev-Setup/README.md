@@ -7,14 +7,14 @@
 ## ✅ What I Did (핵심 요약)
 - Oracle Virtualbox 설치
 - Ubuntu 24.04.3 LTS 설치
-- VM 구
+- VM 구현
 
 ## 🖼️ Result (스크린샷/로그)
 - 실행 화면:
   - ![부팅 스크린샷](./assets/IMG＿2695.jpg)
 - 로그(발췌):
   ```text
-  dmesg: hello: init
+
   ...
 
 ## 🧰 Environment
