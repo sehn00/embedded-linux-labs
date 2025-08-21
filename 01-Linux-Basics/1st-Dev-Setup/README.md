@@ -18,6 +18,7 @@
   ...
 
 ## 🧰 Environment
-- OS/VM: Ubuntu 22.04.3 (VirtualBox)
-- Kernel/Toolchain: Linux 6.x, gcc (버전), QEMU (버전)
-- 기타: (ex) aarch64 cross-compile, make, git
+- OS/VM: Ubuntu 24.04.1 LTS (VirtualBox)
+- Kernel: Linux 6.14.0-27-generic (x86_64)
+- Toolchain: gcc (Ubuntu 13.3.0-23ubuntu4) 13.3.0
+- Build Tools: make 4.3, git 2.43.0
