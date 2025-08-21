@@ -1,4 +1,4 @@
-# <Linux-Basics>  
+# [Linux-Basics]  
 > 리눅스 개발을 시작하기 위한 기초 이론 및 실습
 
 ## 🔗 Blog (상세 기록)
